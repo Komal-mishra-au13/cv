@@ -1,0 +1,29 @@
+body{
+ background-color:#ff9b93;
+}
+hr{
+    width:100%;
+    border-width:3px;
+   
+}
+
+h1,h2{
+    color:#700d54;
+}
+
+p {
+    color:#471066;
+    text-align: justify;
+    font-family:serif ;
+    font-size: 17px;
+    
+}
+
+
+.for{
+    text-align: center;
+    margin: 30px;
+    padding:20px;
+}
+
+
